@@ -1,0 +1,4 @@
+supportedArchitectures:
+  - darwin-x64
+  - linux-x64
+  - win32-x64

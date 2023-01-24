@@ -10,6 +10,6 @@ export default defineConfig({
     },
     host: true,
     strictPort: true,
-    port: 3000, // you can replace this port with any port
+    port: 3000, // has to be the same as in Dockerfile
   }
 })

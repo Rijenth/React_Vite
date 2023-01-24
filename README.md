@@ -5,4 +5,4 @@ Template docker pour une application ReactTS Vite
 
 use ```yarn``` in frontend directory if you want to dev
 
-use ```yarn add [package_name]``` to add any packages
+use ```yarn add [package_name]``` in frontend directory to add any packages
